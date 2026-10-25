@@ -23,3 +23,15 @@ After you have installed conda, close any open terminals you might have. Then op
 
 # To deactivate an active environment, use
     conda deactivate
+# Stanford CS224N — Learning Notes and Assignments
+
+My self-study work for Stanford CS224N: Natural Language Processing
+with Deep Learning.
+
+## Assignment 1: Exploring Word Vectors
+
+[📓 View Notebook](./exploring_word_vectors.ipynb)
+·
+[View on nbviewer](https://nbviewer.org/github/artichen/Stanford-CS224N-Winter-2026/blob/main/exploring_word_vectors.ipynb)
+
+## Environment Setup
